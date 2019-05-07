@@ -8,3 +8,4 @@
 
 每天看一点：
 + [TC39](https://github.com/tc39)
++ [you don't know javascript](https://github.com/getify/You-Dont-Know-JS)
