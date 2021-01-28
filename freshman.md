@@ -26,31 +26,35 @@ nvm install node
 
 ### 前端技术栈
 
-1.陈述性知识：HTML、CSS、Javascript
+- 陈述性知识：HTML、CSS、Javascript
 
-[HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML!)
+[HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
-CSS https://developer.mozilla.org/zh-CN/docs/Web/CSS
-Javascript https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
-EcmaScript https://262.ecma-international.org/6.0/?utm_source=hashnode.com
+[CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
+[Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-
-
-
-2.程序性知识: 框架、作业辅助、工具
-
-React https://github.com/facebook/react
-Next https://nextjs.org/
-Babel https://babeljs.io/
-Webpack https://webpack.js.org/
-V8 https://v8.dev/
+[EcmaScript](https://262.ecma-international.org/6.0/?utm_source=hashnode.com)
 
 
+- 程序性知识: 框架、工具、作业
+
+[React](https://github.com/facebook/react)
+
+[Next](https://nextjs.org/)
+
+[Babel](https://babeljs.io/)
+
+[Webpack](https://webpack.js.org/)
+
+[V8](https://v8.dev/)
 
 
-3.策略性知识
-数据结构与算法 https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
+
+
+- 策略性知识
+
+[数据结构与算法](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 
 
