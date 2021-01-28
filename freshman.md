@@ -28,7 +28,7 @@ nvm install node
 
 1.陈述性知识：HTML、CSS、Javascript
 
-(HTML)[!https://developer.mozilla.org/zh-CN/docs/Web/HTML]
+[HTML](!https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
 CSS https://developer.mozilla.org/zh-CN/docs/Web/CSS
 Javascript https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
